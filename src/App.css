@@ -39,7 +39,7 @@ body {
 }
 
 .App-header {
-  background-color: grey;
+  background-color: lavenderblush;
   min-height: 5vh;
   display: flex;
   flex-direction: row;
@@ -62,12 +62,12 @@ h1 {
 h3 {
   text-align: center;
   text-decoration: underline;
-  color: darkolivegreen
+  color: mediumvioletred
 }
 
 p {
   text-align: center;
-  color: darkolivegreen
+  color: mediumvioletred
   
 }
 

@@ -19,6 +19,7 @@ const StarshipDetails = () => {
  
   return (
     <>
+    
     <div>
       <div>
         <div className='details-card'>
@@ -31,13 +32,16 @@ const StarshipDetails = () => {
           </Link>}</p>
         </div>
       </div>
-      {/* :
-        <>
-          <p>Loading ship details...</p>
-        </> */}
     </div>
+    {/* <>
+      :
+      <>
+        <p>Loading ship details...</p>
+      </>
+    </> */}
     </>
-    
+  
+
   );
 }
  
